@@ -1,5 +1,6 @@
 Poem-maybe and Poem-yes and Poem-no
 
+Today is Thursday
 Poem?
 Maybe?
 Or?
